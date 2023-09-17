@@ -5,3 +5,4 @@
 ```py
 input() # 입력 함수
 ```
+yjuytik
